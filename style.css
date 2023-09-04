@@ -1,0 +1,47 @@
+#nav{
+    background-color: rgb(15, 158, 224);
+    
+    height: 70px;
+}
+.navbar-brand {
+    color: #fff !important;
+    
+
+}
+.container-fluid a {
+    font-family: sans-serif!important;
+    font-weight: bold!important;
+    text-decoration: none;
+   
+    padding-top: 26px;
+    padding-left: 26px;
+    
+
+}
+
+
+#cards{
+    display: flex!important;
+    flex-direction: row!important;
+    flex-wrap: wrap!important;
+    justify-content: center!important;
+    align-items: flex-start!important;
+}
+
+.card{
+    margin-top: 150px;
+    margin-left: 30px;
+    width: 250px;
+    height: 170px;
+    background-color: rgb(143, 223, 223);
+    border-radius: 8px!important;
+    box-shadow: 5px 10px rgb(83, 76, 76);
+
+        
+}
+.card-body{
+    padding-top: 2px!important;
+    padding-left:20px!important;
+    
+    
+}
