@@ -20,12 +20,15 @@
 }
 
 
-#cards{
+body{
     display: flex!important;
     flex-direction: row!important;
     flex-wrap: wrap!important;
     justify-content: center!important;
     align-items: flex-start!important;
+}
+#cards{
+    margin-left: 0;
 }
 
 .card{
