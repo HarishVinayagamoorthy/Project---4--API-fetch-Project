@@ -27,14 +27,12 @@ body{
     justify-content: center!important;
     align-items: flex-start!important;
 }
-#cards{
-    margin-left: 0;
-}
+
 
 .card{
     margin-top: 150px;
     margin-left: 30px;
-    width: 250px;
+    width: 210px;
     height: 170px;
     background-color: rgb(143, 223, 223);
     border-radius: 8px!important;
