@@ -9,13 +9,13 @@
     
 
 }
-
-#body-cards{
+.api-data{
     display: flex!important;
     flex-direction: row!important;
     flex-wrap: wrap!important;
     justify-content: center!important;
     align-items: flex-start!important;
+    gap: 20px;
 }
 
 
@@ -26,7 +26,7 @@
     height: 200px!important;
   
     border-radius: 8px!important;
-    box-shadow: 10px 3px rgb(83, 76, 76);
+    box-shadow: 2px 3px 3px 3px  rgb(99, 96, 96);
     
 
 
@@ -36,5 +36,6 @@
     padding-top: 20px!important;
     padding-left:30px!important;
     background-color: rgb(100, 208, 235);
+    
     
 }
