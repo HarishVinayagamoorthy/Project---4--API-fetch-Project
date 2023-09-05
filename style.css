@@ -1,13 +1,4 @@
-#nav{
-    background-color: rgb(15, 158, 224);
-    
-    height: 70px;
-}
-.navbar-brand {
-    color: #fff !important;
-    
 
-}
 .container-fluid a {
     font-family: sans-serif!important;
     font-weight: bold!important;
@@ -19,8 +10,7 @@
 
 }
 
-
-body{
+#body-cards{
     display: flex!important;
     flex-direction: row!important;
     flex-wrap: wrap!important;
@@ -30,19 +20,21 @@ body{
 
 
 .card{
-    margin-top: 150px;
-    margin-left: 30px;
-    width: 220px;
-    height: 180px;
-    background-color: rgb(143, 223, 223);
+    margin-top: 60px;
+  
+    width: 300px;
+    height: 200px!important;
+  
     border-radius: 8px!important;
-    box-shadow: 5px 10px rgb(83, 76, 76);
+    box-shadow: 10px 3px rgb(83, 76, 76);
+    
+
 
         
 }
 .card-body{
-    padding-top: 2px!important;
-    padding-left:20px!important;
-    
+    padding-top: 20px!important;
+    padding-left:30px!important;
+    background-color: rgb(100, 208, 235);
     
 }
