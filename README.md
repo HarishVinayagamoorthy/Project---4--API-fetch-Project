@@ -1,15 +1,16 @@
 # API- FETCH - PROJECT
 
-
-
 ```markdown
 # API Fetch Project
 
-Welcome to the API Fetch Project! This project allows you to fetch data from an API and display it using Bootstrap, CSS, HTML, and JavaScript.
+Welcome to the API Fetch Project! This project allows you to fetch data from an API and display
+it using Bootstrap, CSS, HTML, and JavaScript.
 
 
 ## Introduction
-This project is designed to demonstrate how to fetch data from an API and present it using modern web technologies. It utilizes Bootstrap for styling, CSS for custom styling, HTML for structuring the page, and JavaScript for handling API requests and dynamic content updates.
+This project is designed to demonstrate how to fetch data from an API and present it using modern web technologies.
+It utilizes Bootstrap for styling, CSS for custom styling, HTML for structuring the page, and JavaScript for handling
+API requests and dynamic content updates.
 
 ## Features
 - Fetch data from a specified API endpoint.
