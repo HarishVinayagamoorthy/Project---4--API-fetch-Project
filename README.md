@@ -1,6 +1,3 @@
-# API- FETCH - PROJECT
-
-```markdown
 # API Fetch Project
 
 Welcome to the API Fetch Project! This project allows you to fetch data from an API and display
